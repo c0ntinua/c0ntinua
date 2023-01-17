@@ -4,7 +4,7 @@ I'd love to collaborate on projects or just talk about code, math, or art. You c
 For those with the resources and inclination, you can support me here: //www.buymeacoffee.com/sc0tzwEi
 
 
-Here's a little art made with code in this repo:
+Here's a little art made with code in this repo (the ffl0 program):
 
 https://user-images.githubusercontent.com/90075803/212892335-ccb89b2c-b14f-485a-bb86-659e799f41ec.mp4
 
