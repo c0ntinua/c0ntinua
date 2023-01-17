@@ -1,7 +1,8 @@
 
 I'd love to collaborate on projects or just talk about code, math, or art. You can reach me at sc0tzwEi@proton.me 
 
-For those with the resources and inclination, you can //www.buymeacoffee.com/sc0tzwEi
+For those with the resources and inclination, you can support me here: //www.buymeacoffee.com/sc0tzwEi
+
 
 Here's a little art made with code in this repo:
 
