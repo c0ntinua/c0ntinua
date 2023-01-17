@@ -1,4 +1,4 @@
 
 I'd love to collaborate with others with similar interests. 
 
-Also, you can https://www.buymeacoffee.com/sc0tzwEi
+If you'd like to help support my work, you can do so at //www.buymeacoffee.com/sc0tzwEi
