@@ -3,7 +3,12 @@ I'd love to collaborate on projects or just talk about code, math, or art. You c
 
 If you'd like to help support my work, you can do so at //www.buymeacoffee.com/sc0tzwEi
 
-Here are some links to digital art made with code in this repo:
+Here's a little art made with code in this repo:
+
+https://user-images.githubusercontent.com/90075803/212892335-ccb89b2c-b14f-485a-bb86-659e799f41ec.mp4
+
+
+Here are some links to more digital art made with code in this repo:
 
 
 https://www.instagram.com/ffoolosofi/
@@ -11,5 +16,9 @@ https://www.instagram.com/ffoolosofi/
 https://www.instagram.com/_f_f_l_o_/
 
 https://www.youtube.com/channel/UC3nUe65z-QI5IBN8E7vTtqA
+
+
+
+
 
 
