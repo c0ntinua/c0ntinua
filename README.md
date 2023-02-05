@@ -1,5 +1,5 @@
 
-I mostly write math/graphics software for education and for creating art.
+I write math and graphics software for education and for creating art.
 
 Here are a few examples: https://sc0tzwei.github.io/vid/
 
